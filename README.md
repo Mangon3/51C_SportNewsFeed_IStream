@@ -5,7 +5,7 @@ This project contains two mini applications that demonstrate dynamic content and
 ## Projects
 
 1. SportNewsFeed: a sports news feed app built using a "Single Activity" architecture with a horizontal and vertical RecyclerViews to display news and matches
-2. **iStream**: a personal video playlist app utilizing the YouTube Player API for media playback and a local Room database for user authentication and playlist management
+2. iStream: a personal video playlist app utilizing the YouTube Player API for media playback and a local Room database for user authentication and playlist management
 
 ## NOTE
 
